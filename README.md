@@ -13,8 +13,7 @@ I'm a Cyber Security Cowboy, security researcher and in my free time, I like to 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psylinux&langs_count=4&layout=compact&theme=dracula" />
 </div>
   
-## Contact
-
+## Where to Find Me
 
 <a href="https://twitter.com/psylinux">
    <img src="https://img.shields.io/badge/twitter-@psylinux-red.svg?style=square&logo=twitter">
