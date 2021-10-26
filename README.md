@@ -1,6 +1,4 @@
-## Hi there 👋
-
-_I'm bão and you?_
+## I'm bão and you? 🤠
  
 I'm a Cyber Security Cowboy, security researcher and in my free time, I like to have some fun in bug bounty programs!
 
@@ -17,6 +15,6 @@ I'm a Cyber Security Cowboy, security researcher and in my free time, I like to 
   
 ## Contact
 
-   <a href="https://twitter.com/psylinux_br">
-    <img src="https://img.shields.io/badge/twitter-@psylinux_br-red.svg?style=square&logo=twitter">
+   <a href="https://twitter.com/psylinux">
+    <img src="https://img.shields.io/badge/twitter-@psylinux-red.svg?style=square&logo=twitter">
   </a>
