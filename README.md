@@ -15,13 +15,13 @@ I'm a Cyber Security Cowboy, security researcher and in my free time, I like to 
   
 ## Contact
 
-<p>
+
 <a href="https://twitter.com/psylinux">
    <img src="https://img.shields.io/badge/twitter-@psylinux-red.svg?style=square&logo=twitter">
 </a>
-</p>
-<p>
+
+
 <a href="https://www.linkedin.com/in/mtazevedo/">
    <img src="https://img.shields.io/badge/linkedin-@psylinux-blue.svg?style=square&logo=linkedin">
 </a>
-</p
+
