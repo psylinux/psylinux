@@ -1,6 +1,11 @@
 ## I'm bão and you? 🤠
  
-I'm a Cyber Security Cowboy, security researcher and in my free time, I like to have some fun in bug bounty programs!
+- I'm a Cyber Security Cowboy all the time
+- Father
+- Pentester
+- Red Teamer
+- Security researcher
+- In my free time I like having fun in bug bounty programs!
 
 ## Stats
 
@@ -18,7 +23,6 @@ I'm a Cyber Security Cowboy, security researcher and in my free time, I like to 
 <a href="https://twitter.com/psylinux">
    <img src="https://img.shields.io/badge/twitter-@psylinux-red.svg?style=square&logo=twitter">
 </a>
-
 
 <a href="https://www.linkedin.com/in/mtazevedo/">
    <img src="https://img.shields.io/badge/linkedin-@psylinux-blue.svg?style=square&logo=linkedin">
