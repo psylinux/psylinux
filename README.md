@@ -25,6 +25,6 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mtazevedo/">
-   <img src="https://img.shields.io/badge/linkedin-@psylinux-blue.svg?style=square&logo=linkedin">
+   <img src="https://img.shields.io/badge/linkedin-/in/mtazevedo-blue.svg?style=square&logo=linkedin">
 </a>
 
