@@ -5,7 +5,7 @@
 - Pentester
 - Red Teamer
 - Security researcher
-- In my free time I like having fun in bug bounty programs!
+- In my free time, I like having fun in bug bounty programs!
 
 ## Stats
 
