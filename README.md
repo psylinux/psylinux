@@ -2,7 +2,7 @@
 - I'm bão and you?
 
 ## Status and Profile
-- **Role**: Pentester & Red Teamer
+- **Role**: Offensive Security Engineer (Red Team)
 - **Identity**: Father | Security Researcher
 - **Focus**: Windows/Linux Internals, Low-Level Programming, Binary Instrumentation, and Vulnerability Research.
 
